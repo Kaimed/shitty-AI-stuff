@@ -1,0 +1,1000 @@
+With 1 tokens beginning, you lose... a 0% chance of winning..
+
+With 2 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 3 tokens beginning, you lose... a 0% chance of winning..
+
+With 4 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 5 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 6 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 7 tokens beginning, you lose... a 0% chance of winning..
+
+With 8 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 9 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 10 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 11 starting tokens, taking 4 gives you a 100% chance of winning!
+
+With 12 starting tokens, taking 5 gives you a 100% chance of winning!
+
+With 13 starting tokens, taking 6 gives you a 100% chance of winning!
+
+With 14 starting tokens, taking 7 gives you a 100% chance of winning!
+
+With 15 tokens beginning, you lose... a 0% chance of winning..
+
+With 16 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 17 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 18 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 19 starting tokens, taking 4 gives you a 100% chance of winning!
+
+With 20 starting tokens, taking 5 gives you a 100% chance of winning!
+
+With 21 starting tokens, taking 6 gives you a 100% chance of winning!
+
+With 22 starting tokens, taking 7 gives you a 100% chance of winning!
+
+With 23 starting tokens, taking 8 gives you a 100% chance of winning!
+
+With 24 starting tokens, taking 9 gives you a 100% chance of winning!
+
+With 25 starting tokens, taking 10 gives you a 100% chance of winning!
+
+With 26 starting tokens, taking 11 gives you a 100% chance of winning!
+
+With 27 starting tokens, taking 12 gives you a 100% chance of winning!
+
+With 28 starting tokens, taking 13 gives you a 100% chance of winning!
+
+With 29 starting tokens, taking 14 gives you a 100% chance of winning!
+
+With 30 starting tokens, taking 15 gives you a 100% chance of winning!
+
+With 31 tokens beginning, you lose... a 0% chance of winning..
+
+With 32 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 33 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 34 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 35 starting tokens, taking 4 gives you a 100% chance of winning!
+
+With 36 starting tokens, taking 5 gives you a 100% chance of winning!
+
+With 37 starting tokens, taking 6 gives you a 100% chance of winning!
+
+With 38 starting tokens, taking 7 gives you a 100% chance of winning!
+
+With 39 starting tokens, taking 8 gives you a 100% chance of winning!
+
+With 40 starting tokens, taking 9 gives you a 100% chance of winning!
+
+With 41 starting tokens, taking 10 gives you a 100% chance of winning!
+
+With 42 starting tokens, taking 11 gives you a 100% chance of winning!
+
+With 43 starting tokens, taking 12 gives you a 100% chance of winning!
+
+With 44 starting tokens, taking 13 gives you a 100% chance of winning!
+
+With 45 starting tokens, taking 14 gives you a 100% chance of winning!
+
+With 46 starting tokens, taking 15 gives you a 100% chance of winning!
+
+With 47 starting tokens, taking 16 gives you a 100% chance of winning!
+
+With 48 starting tokens, taking 17 gives you a 100% chance of winning!
+
+With 49 starting tokens, taking 18 gives you a 100% chance of winning!
+
+With 50 starting tokens, taking 19 gives you a 100% chance of winning!
+
+With 51 starting tokens, taking 20 gives you a 100% chance of winning!
+
+With 52 starting tokens, taking 21 gives you a 100% chance of winning!
+
+With 53 starting tokens, taking 22 gives you a 100% chance of winning!
+
+With 54 starting tokens, taking 23 gives you a 100% chance of winning!
+
+With 55 starting tokens, taking 24 gives you a 100% chance of winning!
+
+With 56 starting tokens, taking 25 gives you a 100% chance of winning!
+
+With 57 starting tokens, taking 26 gives you a 100% chance of winning!
+
+With 58 starting tokens, taking 27 gives you a 100% chance of winning!
+
+With 59 starting tokens, taking 28 gives you a 100% chance of winning!
+
+With 60 starting tokens, taking 29 gives you a 100% chance of winning!
+
+With 61 starting tokens, taking 30 gives you a 100% chance of winning!
+
+With 62 starting tokens, taking 31 gives you a 100% chance of winning!
+
+With 63 tokens beginning, you lose... a 0% chance of winning..
+
+With 64 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 65 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 66 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 67 starting tokens, taking 4 gives you a 100% chance of winning!
+
+With 68 starting tokens, taking 5 gives you a 100% chance of winning!
+
+With 69 starting tokens, taking 6 gives you a 100% chance of winning!
+
+With 70 starting tokens, taking 7 gives you a 100% chance of winning!
+
+With 71 starting tokens, taking 8 gives you a 100% chance of winning!
+
+With 72 starting tokens, taking 9 gives you a 100% chance of winning!
+
+With 73 starting tokens, taking 10 gives you a 100% chance of winning!
+
+With 74 starting tokens, taking 11 gives you a 100% chance of winning!
+
+With 75 starting tokens, taking 12 gives you a 100% chance of winning!
+
+With 76 starting tokens, taking 13 gives you a 100% chance of winning!
+
+With 77 starting tokens, taking 14 gives you a 100% chance of winning!
+
+With 78 starting tokens, taking 15 gives you a 100% chance of winning!
+
+With 79 starting tokens, taking 16 gives you a 100% chance of winning!
+
+With 80 starting tokens, taking 17 gives you a 100% chance of winning!
+
+With 81 starting tokens, taking 18 gives you a 100% chance of winning!
+
+With 82 starting tokens, taking 19 gives you a 100% chance of winning!
+
+With 83 starting tokens, taking 20 gives you a 100% chance of winning!
+
+With 84 starting tokens, taking 21 gives you a 100% chance of winning!
+
+With 85 starting tokens, taking 22 gives you a 100% chance of winning!
+
+With 86 starting tokens, taking 23 gives you a 100% chance of winning!
+
+With 87 starting tokens, taking 24 gives you a 100% chance of winning!
+
+With 88 starting tokens, taking 25 gives you a 100% chance of winning!
+
+With 89 starting tokens, taking 26 gives you a 100% chance of winning!
+
+With 90 starting tokens, taking 27 gives you a 100% chance of winning!
+
+With 91 starting tokens, taking 28 gives you a 100% chance of winning!
+
+With 92 starting tokens, taking 29 gives you a 100% chance of winning!
+
+With 93 starting tokens, taking 30 gives you a 100% chance of winning!
+
+With 94 starting tokens, taking 31 gives you a 100% chance of winning!
+
+With 95 starting tokens, taking 32 gives you a 100% chance of winning!
+
+With 96 starting tokens, taking 33 gives you a 100% chance of winning!
+
+With 97 starting tokens, taking 34 gives you a 100% chance of winning!
+
+With 98 starting tokens, taking 35 gives you a 100% chance of winning!
+
+With 99 starting tokens, taking 36 gives you a 100% chance of winning!
+
+With 100 starting tokens, taking 37 gives you a 100% chance of winning!
+
+With 101 starting tokens, taking 38 gives you a 100% chance of winning!
+
+With 102 starting tokens, taking 39 gives you a 100% chance of winning!
+
+With 103 starting tokens, taking 40 gives you a 100% chance of winning!
+
+With 104 starting tokens, taking 41 gives you a 100% chance of winning!
+
+With 105 starting tokens, taking 42 gives you a 100% chance of winning!
+
+With 106 starting tokens, taking 43 gives you a 100% chance of winning!
+
+With 107 starting tokens, taking 44 gives you a 100% chance of winning!
+
+With 108 starting tokens, taking 45 gives you a 100% chance of winning!
+
+With 109 starting tokens, taking 46 gives you a 100% chance of winning!
+
+With 110 starting tokens, taking 47 gives you a 100% chance of winning!
+
+With 111 starting tokens, taking 48 gives you a 100% chance of winning!
+
+With 112 starting tokens, taking 49 gives you a 100% chance of winning!
+
+With 113 starting tokens, taking 50 gives you a 100% chance of winning!
+
+With 114 starting tokens, taking 51 gives you a 100% chance of winning!
+
+With 115 starting tokens, taking 52 gives you a 100% chance of winning!
+
+With 116 starting tokens, taking 53 gives you a 100% chance of winning!
+
+With 117 starting tokens, taking 54 gives you a 100% chance of winning!
+
+With 118 starting tokens, taking 55 gives you a 100% chance of winning!
+
+With 119 starting tokens, taking 56 gives you a 100% chance of winning!
+
+With 120 starting tokens, taking 57 gives you a 100% chance of winning!
+
+With 121 starting tokens, taking 58 gives you a 100% chance of winning!
+
+With 122 starting tokens, taking 59 gives you a 100% chance of winning!
+
+With 123 starting tokens, taking 60 gives you a 100% chance of winning!
+
+With 124 starting tokens, taking 61 gives you a 100% chance of winning!
+
+With 125 starting tokens, taking 62 gives you a 100% chance of winning!
+
+With 126 starting tokens, taking 63 gives you a 100% chance of winning!
+
+With 127 tokens beginning, you lose... a 0% chance of winning..
+
+With 128 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 129 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 130 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 131 starting tokens, taking 4 gives you a 100% chance of winning!
+
+With 132 starting tokens, taking 5 gives you a 100% chance of winning!
+
+With 133 starting tokens, taking 6 gives you a 100% chance of winning!
+
+With 134 starting tokens, taking 7 gives you a 100% chance of winning!
+
+With 135 starting tokens, taking 8 gives you a 100% chance of winning!
+
+With 136 starting tokens, taking 9 gives you a 100% chance of winning!
+
+With 137 starting tokens, taking 10 gives you a 100% chance of winning!
+
+With 138 starting tokens, taking 11 gives you a 100% chance of winning!
+
+With 139 starting tokens, taking 12 gives you a 100% chance of winning!
+
+With 140 starting tokens, taking 13 gives you a 100% chance of winning!
+
+With 141 starting tokens, taking 14 gives you a 100% chance of winning!
+
+With 142 starting tokens, taking 15 gives you a 100% chance of winning!
+
+With 143 starting tokens, taking 16 gives you a 100% chance of winning!
+
+With 144 starting tokens, taking 17 gives you a 100% chance of winning!
+
+With 145 starting tokens, taking 18 gives you a 100% chance of winning!
+
+With 146 starting tokens, taking 19 gives you a 100% chance of winning!
+
+With 147 starting tokens, taking 20 gives you a 100% chance of winning!
+
+With 148 starting tokens, taking 21 gives you a 100% chance of winning!
+
+With 149 starting tokens, taking 22 gives you a 100% chance of winning!
+
+With 150 starting tokens, taking 23 gives you a 100% chance of winning!
+
+With 151 starting tokens, taking 24 gives you a 100% chance of winning!
+
+With 152 starting tokens, taking 25 gives you a 100% chance of winning!
+
+With 153 starting tokens, taking 26 gives you a 100% chance of winning!
+
+With 154 starting tokens, taking 27 gives you a 100% chance of winning!
+
+With 155 starting tokens, taking 28 gives you a 100% chance of winning!
+
+With 156 starting tokens, taking 29 gives you a 100% chance of winning!
+
+With 157 starting tokens, taking 30 gives you a 100% chance of winning!
+
+With 158 starting tokens, taking 31 gives you a 100% chance of winning!
+
+With 159 starting tokens, taking 32 gives you a 100% chance of winning!
+
+With 160 starting tokens, taking 33 gives you a 100% chance of winning!
+
+With 161 starting tokens, taking 34 gives you a 100% chance of winning!
+
+With 162 starting tokens, taking 35 gives you a 100% chance of winning!
+
+With 163 starting tokens, taking 36 gives you a 100% chance of winning!
+
+With 164 starting tokens, taking 37 gives you a 100% chance of winning!
+
+With 165 starting tokens, taking 38 gives you a 100% chance of winning!
+
+With 166 starting tokens, taking 39 gives you a 100% chance of winning!
+
+With 167 starting tokens, taking 40 gives you a 100% chance of winning!
+
+With 168 starting tokens, taking 41 gives you a 100% chance of winning!
+
+With 169 starting tokens, taking 42 gives you a 100% chance of winning!
+
+With 170 starting tokens, taking 43 gives you a 100% chance of winning!
+
+With 171 starting tokens, taking 44 gives you a 100% chance of winning!
+
+With 172 starting tokens, taking 45 gives you a 100% chance of winning!
+
+With 173 starting tokens, taking 46 gives you a 100% chance of winning!
+
+With 174 starting tokens, taking 47 gives you a 100% chance of winning!
+
+With 175 starting tokens, taking 48 gives you a 100% chance of winning!
+
+With 176 starting tokens, taking 49 gives you a 100% chance of winning!
+
+With 177 starting tokens, taking 50 gives you a 100% chance of winning!
+
+With 178 starting tokens, taking 51 gives you a 100% chance of winning!
+
+With 179 starting tokens, taking 52 gives you a 100% chance of winning!
+
+With 180 starting tokens, taking 53 gives you a 100% chance of winning!
+
+With 181 starting tokens, taking 54 gives you a 100% chance of winning!
+
+With 182 starting tokens, taking 55 gives you a 100% chance of winning!
+
+With 183 starting tokens, taking 56 gives you a 100% chance of winning!
+
+With 184 starting tokens, taking 57 gives you a 100% chance of winning!
+
+With 185 starting tokens, taking 58 gives you a 100% chance of winning!
+
+With 186 starting tokens, taking 59 gives you a 100% chance of winning!
+
+With 187 starting tokens, taking 60 gives you a 100% chance of winning!
+
+With 188 starting tokens, taking 61 gives you a 100% chance of winning!
+
+With 189 starting tokens, taking 62 gives you a 100% chance of winning!
+
+With 190 starting tokens, taking 63 gives you a 100% chance of winning!
+
+With 191 starting tokens, taking 64 gives you a 100% chance of winning!
+
+With 192 starting tokens, taking 65 gives you a 100% chance of winning!
+
+With 193 starting tokens, taking 66 gives you a 100% chance of winning!
+
+With 194 starting tokens, taking 67 gives you a 100% chance of winning!
+
+With 195 starting tokens, taking 68 gives you a 100% chance of winning!
+
+With 196 starting tokens, taking 69 gives you a 100% chance of winning!
+
+With 197 starting tokens, taking 70 gives you a 100% chance of winning!
+
+With 198 starting tokens, taking 71 gives you a 100% chance of winning!
+
+With 199 starting tokens, taking 72 gives you a 100% chance of winning!
+
+With 200 starting tokens, taking 73 gives you a 100% chance of winning!
+
+With 201 starting tokens, taking 74 gives you a 100% chance of winning!
+
+With 202 starting tokens, taking 75 gives you a 100% chance of winning!
+
+With 203 starting tokens, taking 76 gives you a 100% chance of winning!
+
+With 204 starting tokens, taking 77 gives you a 100% chance of winning!
+
+With 205 starting tokens, taking 78 gives you a 100% chance of winning!
+
+With 206 starting tokens, taking 79 gives you a 100% chance of winning!
+
+With 207 starting tokens, taking 80 gives you a 100% chance of winning!
+
+With 208 starting tokens, taking 81 gives you a 100% chance of winning!
+
+With 209 starting tokens, taking 82 gives you a 100% chance of winning!
+
+With 210 starting tokens, taking 83 gives you a 100% chance of winning!
+
+With 211 starting tokens, taking 84 gives you a 100% chance of winning!
+
+With 212 starting tokens, taking 85 gives you a 100% chance of winning!
+
+With 213 starting tokens, taking 86 gives you a 100% chance of winning!
+
+With 214 starting tokens, taking 87 gives you a 100% chance of winning!
+
+With 215 starting tokens, taking 88 gives you a 100% chance of winning!
+
+With 216 starting tokens, taking 89 gives you a 100% chance of winning!
+
+With 217 starting tokens, taking 90 gives you a 100% chance of winning!
+
+With 218 starting tokens, taking 91 gives you a 100% chance of winning!
+
+With 219 starting tokens, taking 92 gives you a 100% chance of winning!
+
+With 220 starting tokens, taking 93 gives you a 100% chance of winning!
+
+With 221 starting tokens, taking 94 gives you a 100% chance of winning!
+
+With 222 starting tokens, taking 95 gives you a 100% chance of winning!
+
+With 223 starting tokens, taking 96 gives you a 100% chance of winning!
+
+With 224 starting tokens, taking 97 gives you a 100% chance of winning!
+
+With 225 starting tokens, taking 98 gives you a 100% chance of winning!
+
+With 226 starting tokens, taking 99 gives you a 100% chance of winning!
+
+With 227 starting tokens, taking 100 gives you a 100% chance of winning!
+
+With 228 starting tokens, taking 101 gives you a 100% chance of winning!
+
+With 229 starting tokens, taking 102 gives you a 100% chance of winning!
+
+With 230 starting tokens, taking 103 gives you a 100% chance of winning!
+
+With 231 starting tokens, taking 104 gives you a 100% chance of winning!
+
+With 232 starting tokens, taking 105 gives you a 100% chance of winning!
+
+With 233 starting tokens, taking 106 gives you a 100% chance of winning!
+
+With 234 starting tokens, taking 107 gives you a 100% chance of winning!
+
+With 235 starting tokens, taking 108 gives you a 100% chance of winning!
+
+With 236 starting tokens, taking 109 gives you a 100% chance of winning!
+
+With 237 starting tokens, taking 110 gives you a 100% chance of winning!
+
+With 238 starting tokens, taking 111 gives you a 100% chance of winning!
+
+With 239 starting tokens, taking 112 gives you a 100% chance of winning!
+
+With 240 starting tokens, taking 113 gives you a 100% chance of winning!
+
+With 241 starting tokens, taking 114 gives you a 100% chance of winning!
+
+With 242 starting tokens, taking 115 gives you a 100% chance of winning!
+
+With 243 starting tokens, taking 116 gives you a 100% chance of winning!
+
+With 244 starting tokens, taking 117 gives you a 100% chance of winning!
+
+With 245 starting tokens, taking 118 gives you a 100% chance of winning!
+
+With 246 starting tokens, taking 119 gives you a 100% chance of winning!
+
+With 247 starting tokens, taking 120 gives you a 100% chance of winning!
+
+With 248 starting tokens, taking 121 gives you a 100% chance of winning!
+
+With 249 starting tokens, taking 122 gives you a 100% chance of winning!
+
+With 250 starting tokens, taking 123 gives you a 100% chance of winning!
+
+With 251 starting tokens, taking 124 gives you a 100% chance of winning!
+
+With 252 starting tokens, taking 125 gives you a 100% chance of winning!
+
+With 253 starting tokens, taking 126 gives you a 100% chance of winning!
+
+With 254 starting tokens, taking 127 gives you a 100% chance of winning!
+
+With 255 tokens beginning, you lose... a 0% chance of winning..
+
+With 256 starting tokens, taking 1 gives you a 100% chance of winning!
+
+With 257 starting tokens, taking 2 gives you a 100% chance of winning!
+
+With 258 starting tokens, taking 3 gives you a 100% chance of winning!
+
+With 259 starting tokens, taking 4 gives you a 100% chance of winning!
+
+With 260 starting tokens, taking 5 gives you a 100% chance of winning!
+
+With 261 starting tokens, taking 6 gives you a 100% chance of winning!
+
+With 262 starting tokens, taking 7 gives you a 100% chance of winning!
+
+With 263 starting tokens, taking 8 gives you a 100% chance of winning!
+
+With 264 starting tokens, taking 9 gives you a 100% chance of winning!
+
+With 265 starting tokens, taking 10 gives you a 100% chance of winning!
+
+With 266 starting tokens, taking 11 gives you a 100% chance of winning!
+
+With 267 starting tokens, taking 12 gives you a 100% chance of winning!
+
+With 268 starting tokens, taking 13 gives you a 100% chance of winning!
+
+With 269 starting tokens, taking 14 gives you a 100% chance of winning!
+
+With 270 starting tokens, taking 15 gives you a 100% chance of winning!
+
+With 271 starting tokens, taking 16 gives you a 100% chance of winning!
+
+With 272 starting tokens, taking 17 gives you a 100% chance of winning!
+
+With 273 starting tokens, taking 18 gives you a 100% chance of winning!
+
+With 274 starting tokens, taking 19 gives you a 100% chance of winning!
+
+With 275 starting tokens, taking 20 gives you a 100% chance of winning!
+
+With 276 starting tokens, taking 21 gives you a 100% chance of winning!
+
+With 277 starting tokens, taking 22 gives you a 100% chance of winning!
+
+With 278 starting tokens, taking 23 gives you a 100% chance of winning!
+
+With 279 starting tokens, taking 24 gives you a 100% chance of winning!
+
+With 280 starting tokens, taking 25 gives you a 100% chance of winning!
+
+With 281 starting tokens, taking 26 gives you a 100% chance of winning!
+
+With 282 starting tokens, taking 27 gives you a 100% chance of winning!
+
+With 283 starting tokens, taking 28 gives you a 100% chance of winning!
+
+With 284 starting tokens, taking 29 gives you a 100% chance of winning!
+
+With 285 starting tokens, taking 30 gives you a 100% chance of winning!
+
+With 286 starting tokens, taking 31 gives you a 100% chance of winning!
+
+With 287 starting tokens, taking 32 gives you a 100% chance of winning!
+
+With 288 starting tokens, taking 33 gives you a 100% chance of winning!
+
+With 289 starting tokens, taking 34 gives you a 100% chance of winning!
+
+With 290 starting tokens, taking 35 gives you a 100% chance of winning!
+
+With 291 starting tokens, taking 36 gives you a 100% chance of winning!
+
+With 292 starting tokens, taking 37 gives you a 100% chance of winning!
+
+With 293 starting tokens, taking 38 gives you a 100% chance of winning!
+
+With 294 starting tokens, taking 39 gives you a 100% chance of winning!
+
+With 295 starting tokens, taking 40 gives you a 100% chance of winning!
+
+With 296 starting tokens, taking 41 gives you a 100% chance of winning!
+
+With 297 starting tokens, taking 42 gives you a 100% chance of winning!
+
+With 298 starting tokens, taking 43 gives you a 100% chance of winning!
+
+With 299 starting tokens, taking 44 gives you a 100% chance of winning!
+
+With 300 starting tokens, taking 45 gives you a 100% chance of winning!
+
+With 301 starting tokens, taking 46 gives you a 100% chance of winning!
+
+With 302 starting tokens, taking 47 gives you a 100% chance of winning!
+
+With 303 starting tokens, taking 48 gives you a 100% chance of winning!
+
+With 304 starting tokens, taking 49 gives you a 100% chance of winning!
+
+With 305 starting tokens, taking 50 gives you a 100% chance of winning!
+
+With 306 starting tokens, taking 51 gives you a 100% chance of winning!
+
+With 307 starting tokens, taking 52 gives you a 100% chance of winning!
+
+With 308 starting tokens, taking 53 gives you a 100% chance of winning!
+
+With 309 starting tokens, taking 54 gives you a 100% chance of winning!
+
+With 310 starting tokens, taking 55 gives you a 100% chance of winning!
+
+With 311 starting tokens, taking 56 gives you a 100% chance of winning!
+
+With 312 starting tokens, taking 57 gives you a 100% chance of winning!
+
+With 313 starting tokens, taking 58 gives you a 100% chance of winning!
+
+With 314 starting tokens, taking 59 gives you a 100% chance of winning!
+
+With 315 starting tokens, taking 60 gives you a 100% chance of winning!
+
+With 316 starting tokens, taking 61 gives you a 100% chance of winning!
+
+With 317 starting tokens, taking 62 gives you a 100% chance of winning!
+
+With 318 starting tokens, taking 63 gives you a 100% chance of winning!
+
+With 319 starting tokens, taking 64 gives you a 100% chance of winning!
+
+With 320 starting tokens, taking 65 gives you a 100% chance of winning!
+
+With 321 starting tokens, taking 66 gives you a 100% chance of winning!
+
+With 322 starting tokens, taking 67 gives you a 100% chance of winning!
+
+With 323 starting tokens, taking 68 gives you a 100% chance of winning!
+
+With 324 starting tokens, taking 69 gives you a 100% chance of winning!
+
+With 325 starting tokens, taking 70 gives you a 100% chance of winning!
+
+With 326 starting tokens, taking 71 gives you a 100% chance of winning!
+
+With 327 starting tokens, taking 72 gives you a 100% chance of winning!
+
+With 328 starting tokens, taking 73 gives you a 100% chance of winning!
+
+With 329 starting tokens, taking 74 gives you a 100% chance of winning!
+
+With 330 starting tokens, taking 75 gives you a 100% chance of winning!
+
+With 331 starting tokens, taking 76 gives you a 100% chance of winning!
+
+With 332 starting tokens, taking 77 gives you a 100% chance of winning!
+
+With 333 starting tokens, taking 78 gives you a 100% chance of winning!
+
+With 334 starting tokens, taking 79 gives you a 100% chance of winning!
+
+With 335 starting tokens, taking 80 gives you a 100% chance of winning!
+
+With 336 starting tokens, taking 81 gives you a 100% chance of winning!
+
+With 337 starting tokens, taking 82 gives you a 100% chance of winning!
+
+With 338 starting tokens, taking 83 gives you a 100% chance of winning!
+
+With 339 starting tokens, taking 84 gives you a 100% chance of winning!
+
+With 340 starting tokens, taking 85 gives you a 100% chance of winning!
+
+With 341 starting tokens, taking 86 gives you a 100% chance of winning!
+
+With 342 starting tokens, taking 87 gives you a 100% chance of winning!
+
+With 343 starting tokens, taking 88 gives you a 100% chance of winning!
+
+With 344 starting tokens, taking 89 gives you a 100% chance of winning!
+
+With 345 starting tokens, taking 90 gives you a 100% chance of winning!
+
+With 346 starting tokens, taking 91 gives you a 100% chance of winning!
+
+With 347 starting tokens, taking 92 gives you a 100% chance of winning!
+
+With 348 starting tokens, taking 93 gives you a 100% chance of winning!
+
+With 349 starting tokens, taking 94 gives you a 100% chance of winning!
+
+With 350 starting tokens, taking 95 gives you a 100% chance of winning!
+
+With 351 starting tokens, taking 96 gives you a 100% chance of winning!
+
+With 352 starting tokens, taking 97 gives you a 100% chance of winning!
+
+With 353 starting tokens, taking 98 gives you a 100% chance of winning!
+
+With 354 starting tokens, taking 99 gives you a 100% chance of winning!
+
+With 355 starting tokens, taking 100 gives you a 100% chance of winning!
+
+With 356 starting tokens, taking 101 gives you a 100% chance of winning!
+
+With 357 starting tokens, taking 102 gives you a 100% chance of winning!
+
+With 358 starting tokens, taking 103 gives you a 100% chance of winning!
+
+With 359 starting tokens, taking 104 gives you a 100% chance of winning!
+
+With 360 starting tokens, taking 105 gives you a 100% chance of winning!
+
+With 361 starting tokens, taking 106 gives you a 100% chance of winning!
+
+With 362 starting tokens, taking 107 gives you a 100% chance of winning!
+
+With 363 starting tokens, taking 108 gives you a 100% chance of winning!
+
+With 364 starting tokens, taking 109 gives you a 100% chance of winning!
+
+With 365 starting tokens, taking 110 gives you a 100% chance of winning!
+
+With 366 starting tokens, taking 111 gives you a 100% chance of winning!
+
+With 367 starting tokens, taking 112 gives you a 100% chance of winning!
+
+With 368 starting tokens, taking 113 gives you a 100% chance of winning!
+
+With 369 starting tokens, taking 114 gives you a 100% chance of winning!
+
+With 370 starting tokens, taking 115 gives you a 100% chance of winning!
+
+With 371 starting tokens, taking 116 gives you a 100% chance of winning!
+
+With 372 starting tokens, taking 117 gives you a 100% chance of winning!
+
+With 373 starting tokens, taking 118 gives you a 100% chance of winning!
+
+With 374 starting tokens, taking 119 gives you a 100% chance of winning!
+
+With 375 starting tokens, taking 120 gives you a 100% chance of winning!
+
+With 376 starting tokens, taking 121 gives you a 100% chance of winning!
+
+With 377 starting tokens, taking 122 gives you a 100% chance of winning!
+
+With 378 starting tokens, taking 123 gives you a 100% chance of winning!
+
+With 379 starting tokens, taking 124 gives you a 100% chance of winning!
+
+With 380 starting tokens, taking 125 gives you a 100% chance of winning!
+
+With 381 starting tokens, taking 126 gives you a 100% chance of winning!
+
+With 382 starting tokens, taking 127 gives you a 100% chance of winning!
+
+With 383 starting tokens, taking 128 gives you a 100% chance of winning!
+
+With 384 starting tokens, taking 129 gives you a 100% chance of winning!
+
+With 385 starting tokens, taking 130 gives you a 100% chance of winning!
+
+With 386 starting tokens, taking 131 gives you a 100% chance of winning!
+
+With 387 starting tokens, taking 132 gives you a 100% chance of winning!
+
+With 388 starting tokens, taking 133 gives you a 100% chance of winning!
+
+With 389 starting tokens, taking 134 gives you a 100% chance of winning!
+
+With 390 starting tokens, taking 135 gives you a 100% chance of winning!
+
+With 391 starting tokens, taking 136 gives you a 100% chance of winning!
+
+With 392 starting tokens, taking 137 gives you a 100% chance of winning!
+
+With 393 starting tokens, taking 138 gives you a 100% chance of winning!
+
+With 394 starting tokens, taking 139 gives you a 100% chance of winning!
+
+With 395 starting tokens, taking 140 gives you a 100% chance of winning!
+
+With 396 starting tokens, taking 141 gives you a 100% chance of winning!
+
+With 397 starting tokens, taking 142 gives you a 100% chance of winning!
+
+With 398 starting tokens, taking 143 gives you a 100% chance of winning!
+
+With 399 starting tokens, taking 144 gives you a 100% chance of winning!
+
+With 400 starting tokens, taking 145 gives you a 100% chance of winning!
+
+With 401 starting tokens, taking 146 gives you a 100% chance of winning!
+
+With 402 starting tokens, taking 147 gives you a 100% chance of winning!
+
+With 403 starting tokens, taking 148 gives you a 100% chance of winning!
+
+With 404 starting tokens, taking 149 gives you a 100% chance of winning!
+
+With 405 starting tokens, taking 150 gives you a 100% chance of winning!
+
+With 406 starting tokens, taking 151 gives you a 100% chance of winning!
+
+With 407 starting tokens, taking 152 gives you a 100% chance of winning!
+
+With 408 starting tokens, taking 153 gives you a 100% chance of winning!
+
+With 409 starting tokens, taking 154 gives you a 100% chance of winning!
+
+With 410 starting tokens, taking 155 gives you a 100% chance of winning!
+
+With 411 starting tokens, taking 156 gives you a 100% chance of winning!
+
+With 412 starting tokens, taking 157 gives you a 100% chance of winning!
+
+With 413 starting tokens, taking 158 gives you a 100% chance of winning!
+
+With 414 starting tokens, taking 159 gives you a 100% chance of winning!
+
+With 415 starting tokens, taking 160 gives you a 100% chance of winning!
+
+With 416 starting tokens, taking 161 gives you a 100% chance of winning!
+
+With 417 starting tokens, taking 162 gives you a 100% chance of winning!
+
+With 418 starting tokens, taking 163 gives you a 100% chance of winning!
+
+With 419 starting tokens, taking 164 gives you a 100% chance of winning!
+
+With 420 starting tokens, taking 165 gives you a 100% chance of winning!
+
+With 421 starting tokens, taking 166 gives you a 100% chance of winning!
+
+With 422 starting tokens, taking 167 gives you a 100% chance of winning!
+
+With 423 starting tokens, taking 168 gives you a 100% chance of winning!
+
+With 424 starting tokens, taking 169 gives you a 100% chance of winning!
+
+With 425 starting tokens, taking 170 gives you a 100% chance of winning!
+
+With 426 starting tokens, taking 171 gives you a 100% chance of winning!
+
+With 427 starting tokens, taking 172 gives you a 100% chance of winning!
+
+With 428 starting tokens, taking 173 gives you a 100% chance of winning!
+
+With 429 starting tokens, taking 174 gives you a 100% chance of winning!
+
+With 430 starting tokens, taking 175 gives you a 100% chance of winning!
+
+With 431 starting tokens, taking 176 gives you a 100% chance of winning!
+
+With 432 starting tokens, taking 177 gives you a 100% chance of winning!
+
+With 433 starting tokens, taking 178 gives you a 100% chance of winning!
+
+With 434 starting tokens, taking 179 gives you a 100% chance of winning!
+
+With 435 starting tokens, taking 180 gives you a 100% chance of winning!
+
+With 436 starting tokens, taking 181 gives you a 100% chance of winning!
+
+With 437 starting tokens, taking 182 gives you a 100% chance of winning!
+
+With 438 starting tokens, taking 183 gives you a 100% chance of winning!
+
+With 439 starting tokens, taking 184 gives you a 100% chance of winning!
+
+With 440 starting tokens, taking 185 gives you a 100% chance of winning!
+
+With 441 starting tokens, taking 186 gives you a 100% chance of winning!
+
+With 442 starting tokens, taking 187 gives you a 100% chance of winning!
+
+With 443 starting tokens, taking 188 gives you a 100% chance of winning!
+
+With 444 starting tokens, taking 189 gives you a 100% chance of winning!
+
+With 445 starting tokens, taking 190 gives you a 100% chance of winning!
+
+With 446 starting tokens, taking 191 gives you a 100% chance of winning!
+
+With 447 starting tokens, taking 192 gives you a 100% chance of winning!
+
+With 448 starting tokens, taking 193 gives you a 100% chance of winning!
+
+With 449 starting tokens, taking 194 gives you a 100% chance of winning!
+
+With 450 starting tokens, taking 195 gives you a 100% chance of winning!
+
+With 451 starting tokens, taking 196 gives you a 100% chance of winning!
+
+With 452 starting tokens, taking 197 gives you a 100% chance of winning!
+
+With 453 starting tokens, taking 198 gives you a 100% chance of winning!
+
+With 454 starting tokens, taking 199 gives you a 100% chance of winning!
+
+With 455 starting tokens, taking 200 gives you a 100% chance of winning!
+
+With 456 starting tokens, taking 201 gives you a 100% chance of winning!
+
+With 457 starting tokens, taking 202 gives you a 100% chance of winning!
+
+With 458 starting tokens, taking 203 gives you a 100% chance of winning!
+
+With 459 starting tokens, taking 204 gives you a 100% chance of winning!
+
+With 460 starting tokens, taking 205 gives you a 100% chance of winning!
+
+With 461 starting tokens, taking 206 gives you a 100% chance of winning!
+
+With 462 starting tokens, taking 207 gives you a 100% chance of winning!
+
+With 463 starting tokens, taking 208 gives you a 100% chance of winning!
+
+With 464 starting tokens, taking 209 gives you a 100% chance of winning!
+
+With 465 starting tokens, taking 210 gives you a 100% chance of winning!
+
+With 466 starting tokens, taking 211 gives you a 100% chance of winning!
+
+With 467 starting tokens, taking 212 gives you a 100% chance of winning!
+
+With 468 starting tokens, taking 213 gives you a 100% chance of winning!
+
+With 469 starting tokens, taking 214 gives you a 100% chance of winning!
+
+With 470 starting tokens, taking 215 gives you a 100% chance of winning!
+
+With 471 starting tokens, taking 216 gives you a 100% chance of winning!
+
+With 472 starting tokens, taking 217 gives you a 100% chance of winning!
+
+With 473 starting tokens, taking 218 gives you a 100% chance of winning!
+
+With 474 starting tokens, taking 219 gives you a 100% chance of winning!
+
+With 475 starting tokens, taking 220 gives you a 100% chance of winning!
+
+With 476 starting tokens, taking 221 gives you a 100% chance of winning!
+
+With 477 starting tokens, taking 222 gives you a 100% chance of winning!
+
+With 478 starting tokens, taking 223 gives you a 100% chance of winning!
+
+With 479 starting tokens, taking 224 gives you a 100% chance of winning!
+
+With 480 starting tokens, taking 225 gives you a 100% chance of winning!
+
+With 481 starting tokens, taking 226 gives you a 100% chance of winning!
+
+With 482 starting tokens, taking 227 gives you a 100% chance of winning!
+
+With 483 starting tokens, taking 228 gives you a 100% chance of winning!
+
+With 484 starting tokens, taking 229 gives you a 100% chance of winning!
+
+With 485 starting tokens, taking 230 gives you a 100% chance of winning!
+
+With 486 starting tokens, taking 231 gives you a 100% chance of winning!
+
+With 487 starting tokens, taking 232 gives you a 100% chance of winning!
+
+With 488 starting tokens, taking 233 gives you a 100% chance of winning!
+
+With 489 starting tokens, taking 234 gives you a 100% chance of winning!
+
+With 490 starting tokens, taking 235 gives you a 100% chance of winning!
+
+With 491 starting tokens, taking 236 gives you a 100% chance of winning!
+
+With 492 starting tokens, taking 237 gives you a 100% chance of winning!
+
+With 493 starting tokens, taking 238 gives you a 100% chance of winning!
+
+With 494 starting tokens, taking 239 gives you a 100% chance of winning!
+
+With 495 starting tokens, taking 240 gives you a 100% chance of winning!
+
+With 496 starting tokens, taking 241 gives you a 100% chance of winning!
+
+With 497 starting tokens, taking 242 gives you a 100% chance of winning!
+
+With 498 starting tokens, taking 243 gives you a 100% chance of winning!
+
+With 499 starting tokens, taking 244 gives you a 100% chance of winning!
+
+With 500 starting tokens, taking 245 gives you a 100% chance of winning!
+
